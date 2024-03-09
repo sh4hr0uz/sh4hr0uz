@@ -30,6 +30,7 @@ I am a computer engineer with strong background in operating system(Linux and *B
 ![Static Badge](https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/sqlite-green?style=for-the-badge&logo=sqlite)
 ![Static Badge](https://img.shields.io/badge/docker-azure?style=for-the-badge&logo=docker)
+![Static Badge](https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=Ansible)
 <!--
 **sh4hr0uz/sh4hr0uz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
