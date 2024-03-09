@@ -1,6 +1,6 @@
 ## Shahrouz Khoshdel
 
-I am a computer engineer with strong background in operating system(Linux and *BSD) and network. I am interested in Data Science and Machine Learning.
+I am a computer engineer with strong background in operating system(Linux and *BSD) and network. I am interested in Data analytics and Data Science.
 
 ## Technologies
 <!--
