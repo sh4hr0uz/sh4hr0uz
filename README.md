@@ -11,9 +11,8 @@ world of data analytics.
 I have a diverse skill set that includes:
 
 - **Programming**: Python, R
-- **Data Analysis & Visualization**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, Power BI
-- **DevOps Tools**: Linux and *BSD, Docker, Ansible
-- **Others**: SQL, Excel, Git
+- **Data Analysis & Visualization**: SQL, Excel, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, Power BI
+- **Others**: Linux and *BSD, Docker, Ansible, Git
 
 
 ### My Passion for Data
